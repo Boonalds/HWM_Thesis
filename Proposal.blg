@@ -1,0 +1,17 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'Proposal.blg'
+[77] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[77] Biber.pm:333> INFO - Reading 'Proposal.bcf'
+[363] Utils.pm:146> WARN - Warning: Found biblatex control file version 2.8, expected version 2.7
+[364] Biber.pm:645> INFO - Found 11 citekeys in bib section 0
+[417] Biber.pm:2977> INFO - Processing section 0
+[469] Biber.pm:3115> INFO - Looking for bibtex format file 'References.bib' for section 0
+[536] bibtex.pm:1021> INFO - Decoding LaTeX character macros into UTF-8
+[579] bibtex.pm:895> INFO - Found BibTeX data source 'References.bib'
+[892] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[892] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[892] Biber.pm:2854> INFO - Sorting list 'nyvt' of type 'entry' with scheme 'nyvt' and locale 'en-US'
+[892] Biber.pm:2858> INFO - No sort tailoring available for locale 'en-US'
+[922] bbl.pm:505> INFO - Writing 'Proposal.bbl' with encoding 'UTF-8'
+[1003] bbl.pm:596> INFO - Output to Proposal.bbl
+[1006] Biber.pm:106> INFO - WARNINGS: 1
