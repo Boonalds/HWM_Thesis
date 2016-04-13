@@ -1,0 +1,339 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyvt}{nyvt}
+    \entry{arellano12}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=bf1921258d4d9ab70cc39eefc740b0de}{Arellano}{A\bibinitperiod}{Jordi\bibnamedelima Vila--Guerau}{J\bibinitperiod\bibinitdelim V\bibinithyphendelim \bibinithyphendelim \bibinithyphendelim G\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=5cf1214a078a3a8c342530f4d1e16d99}{Heerwaarden}{H\bibinitperiod}{Chiel\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=f8b5b8c728d030dc09eb13262c0f7d69}{Lelieveld}{L\bibinitperiod}{Jos}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=bf1921258d4d9ab70cc39eefc740b0de}{Arellano}{A\bibinitperiod}{Jordi\bibnamedelima Vila--Guerau}{J\bibinitperiod\bibinitdelim V\bibinithyphendelim \bibinithyphendelim \bibinithyphendelim G\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=5cf1214a078a3a8c342530f4d1e16d99}{Heerwaarden}{H\bibinitperiod}{Chiel\bibnamedelima C.}{C\bibinitperiod\bibinitdelim C\bibinitperiod}{van}{v\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=f8b5b8c728d030dc09eb13262c0f7d69}{Lelieveld}{L\bibinitperiod}{Jos}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7105636795f45a67ec9e65cc5ea17fff}
+      \strng{fullhash}{7105636795f45a67ec9e65cc5ea17fff}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Modelled suppression of boundary-layer clouds by plants in a CO2-rich atmosphere}
+      \field{journaltitle}{nature geoscience}
+      \field{number}{10}
+      \field{title}{Modelled suppression of boundary-layer clouds by plants in a CO2-rich atmosphere}
+      \field{volume}{5}
+      \field{year}{2012}
+      \field{pages}{701\bibrangedash 704}
+    \endentry
+    \entry{chagnon04}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=79b2238cffb67aa8b427355f0351568b}{Chagnon}{C\bibinitperiod}{FJF}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=07e31f4392038c1f07ef53cde21890d1}{Bras}{B\bibinitperiod}{RL}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3702f1c146e64a6c91fc47b81ea59fc7}{Wang}{W\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=79b2238cffb67aa8b427355f0351568b}{Chagnon}{C\bibinitperiod}{FJF}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=07e31f4392038c1f07ef53cde21890d1}{Bras}{B\bibinitperiod}{RL}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3702f1c146e64a6c91fc47b81ea59fc7}{Wang}{W\bibinitperiod}{J}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{649812684b669329c1a1b40ed39c0a9a}
+      \strng{fullhash}{649812684b669329c1a1b40ed39c0a9a}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Climatic shift in patterns of shallow clouds over the Amazon}
+      \field{journaltitle}{Geophysical Research Letters}
+      \field{number}{24}
+      \field{title}{Climatic shift in patterns of shallow clouds over the Amazon}
+      \field{volume}{31}
+      \field{year}{2004}
+    \endentry
+    \entry{foley05}{article}{}
+      \name{labelname}{19}{}{%
+        {{uniquename=0,hash=a1d7b754ba935075adeda88f49542858}{Foley}{F\bibinitperiod}{Jonathan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=def9f20111eb78a284a5d8f58a995881}{DeFries}{D\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cf8e33d2ab693c10cc0aa92129f811b4}{Asner}{A\bibinitperiod}{Gregory\bibnamedelima P.}{G\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b316d8a5ced4b2438d4662e1cd5ed163}{Barford}{B\bibinitperiod}{Carol}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e8253c0ae9155a62a59864e27a5defa8}{Bonan}{B\bibinitperiod}{Gordon}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dc02088569e90aa6abe55518b572f838}{Carpenter}{C\bibinitperiod}{Stephen\bibnamedelima R.}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85afed4ff6e55402faadd78d7babf22f}{Chapin}{C\bibinitperiod}{F.\bibnamedelimi Stuart}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cc2c923a1815e854edd40720bf401ae}{Coe}{C\bibinitperiod}{Michael\bibnamedelima T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2b468916bb9a9ff8997ca855c459abc6}{Daily}{D\bibinitperiod}{Gretchen\bibnamedelima C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=44eedbeeb04e3134d90269e6901904a2}{Gibbs}{G\bibinitperiod}{Holly\bibnamedelima K.}{H\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=75ab0ee2aa37b1f098b23537567edcde}{Helkowski}{H\bibinitperiod}{Joseph\bibnamedelima H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=501ffca9a4ad3b655d4e931ceff58e3b}{Holloway}{H\bibinitperiod}{Tracey}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b8db36e807e06f76df193d0aaa7d87a1}{Howard}{H\bibinitperiod}{Erica\bibnamedelima A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6fad0a1e881005f7a75121564a921b3a}{Kucharik}{K\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=06a2d167cf2ba8dec0fd144c62632f93}{Monfreda}{M\bibinitperiod}{Chad}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=218795c2d22c2c354f1f2e6105f5a156}{Patz}{P\bibinitperiod}{Jonathan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d916be835c3fb979e31c839a8fe7d3a}{Prentice}{P\bibinitperiod}{I.\bibnamedelimi Colin}{I\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb3c691154670cecc5aacd44d8ab0ff2}{Ramankutty}{R\bibinitperiod}{Navin}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=60eb314d12ee5968805cc6cddf0e1e3a}{Snyder}{S\bibinitperiod}{Peter\bibnamedelima K.}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{19}{}{%
+        {{uniquename=0,hash=a1d7b754ba935075adeda88f49542858}{Foley}{F\bibinitperiod}{Jonathan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=def9f20111eb78a284a5d8f58a995881}{DeFries}{D\bibinitperiod}{Ruth}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cf8e33d2ab693c10cc0aa92129f811b4}{Asner}{A\bibinitperiod}{Gregory\bibnamedelima P.}{G\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b316d8a5ced4b2438d4662e1cd5ed163}{Barford}{B\bibinitperiod}{Carol}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e8253c0ae9155a62a59864e27a5defa8}{Bonan}{B\bibinitperiod}{Gordon}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=dc02088569e90aa6abe55518b572f838}{Carpenter}{C\bibinitperiod}{Stephen\bibnamedelima R.}{S\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=85afed4ff6e55402faadd78d7babf22f}{Chapin}{C\bibinitperiod}{F.\bibnamedelimi Stuart}{F\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1cc2c923a1815e854edd40720bf401ae}{Coe}{C\bibinitperiod}{Michael\bibnamedelima T.}{M\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2b468916bb9a9ff8997ca855c459abc6}{Daily}{D\bibinitperiod}{Gretchen\bibnamedelima C.}{G\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=44eedbeeb04e3134d90269e6901904a2}{Gibbs}{G\bibinitperiod}{Holly\bibnamedelima K.}{H\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=75ab0ee2aa37b1f098b23537567edcde}{Helkowski}{H\bibinitperiod}{Joseph\bibnamedelima H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=501ffca9a4ad3b655d4e931ceff58e3b}{Holloway}{H\bibinitperiod}{Tracey}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b8db36e807e06f76df193d0aaa7d87a1}{Howard}{H\bibinitperiod}{Erica\bibnamedelima A.}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6fad0a1e881005f7a75121564a921b3a}{Kucharik}{K\bibinitperiod}{Christopher\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=06a2d167cf2ba8dec0fd144c62632f93}{Monfreda}{M\bibinitperiod}{Chad}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=218795c2d22c2c354f1f2e6105f5a156}{Patz}{P\bibinitperiod}{Jonathan\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9d916be835c3fb979e31c839a8fe7d3a}{Prentice}{P\bibinitperiod}{I.\bibnamedelimi Colin}{I\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=eb3c691154670cecc5aacd44d8ab0ff2}{Ramankutty}{R\bibinitperiod}{Navin}{N\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=60eb314d12ee5968805cc6cddf0e1e3a}{Snyder}{S\bibinitperiod}{Peter\bibnamedelima K.}{P\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{96095be7bcff123fe5faa9161f6a604c}
+      \strng{fullhash}{6dca3e005fd89a29cb8655c5012c5a45}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Global Consequences of Land Use}
+      \field{journaltitle}{Science}
+      \field{number}{5734}
+      \field{title}{Global Consequences of Land Use}
+      \field{volume}{309}
+      \field{year}{2005}
+      \field{pages}{570\bibrangedash 574}
+    \endentry
+    \entry{hartmann92}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=129565f30cce36c0985ba4e39658d293}{Hartmann}{H\bibinitperiod}{D.\bibnamedelimi L.}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2a83c48066c4df96e9d396642e9b7362}{Ockertbell}{O\bibinitperiod}{M.\bibnamedelimi E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f0cbc592464733dd1034e4b38f1a76a3}{Michelsen}{M\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=129565f30cce36c0985ba4e39658d293}{Hartmann}{H\bibinitperiod}{D.\bibnamedelimi L.}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2a83c48066c4df96e9d396642e9b7362}{Ockertbell}{O\bibinitperiod}{M.\bibnamedelimi E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f0cbc592464733dd1034e4b38f1a76a3}{Michelsen}{M\bibinitperiod}{M.\bibnamedelimi L.}{M\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dde199b540cd98847549bd2ce59c9e74}
+      \strng{fullhash}{dde199b540cd98847549bd2ce59c9e74}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labelyear}{1992}
+      \field{datelabelsource}{}
+      \field{labeltitle}{THE EFFECT OF CLOUD TYPE ON EARTHS ENERGY--BALANCE -- GLOBAL ANALYSIS}
+      \field{journaltitle}{Journal of Climate}
+      \field{number}{11}
+      \field{title}{THE EFFECT OF CLOUD TYPE ON EARTHS ENERGY--BALANCE -- GLOBAL ANALYSIS}
+      \field{volume}{5}
+      \field{year}{1992}
+      \field{pages}{1281\bibrangedash 1304}
+    \endentry
+    \entry{irvine97}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=9510274e7e0fca6068b04e0fe56b8eb0}{Irvine}{I\bibinitperiod}{MR}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfc64b888833e53e2c6cc6653f15d42b}{Gardiner}{G\bibinitperiod}{BA}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6a4998faa0505cdde27122ce5ee3c976}{Hill}{H\bibinitperiod}{MK}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=9510274e7e0fca6068b04e0fe56b8eb0}{Irvine}{I\bibinitperiod}{MR}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfc64b888833e53e2c6cc6653f15d42b}{Gardiner}{G\bibinitperiod}{BA}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6a4998faa0505cdde27122ce5ee3c976}{Hill}{H\bibinitperiod}{MK}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4fdd5706ed1a2db8fee52fc05271f657}
+      \strng{fullhash}{4fdd5706ed1a2db8fee52fc05271f657}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labeltitle}{The evolution of turbulence across a forest edge}
+      \field{journaltitle}{Boundary--Layer Meteorology}
+      \field{number}{3}
+      \field{title}{The evolution of turbulence across a forest edge}
+      \field{volume}{84}
+      \field{year}{1997}
+      \field{pages}{467\bibrangedash 496}
+    \endentry
+    \entry{msg}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Meteosat Second Generation}
+      \field{title}{Meteosat Second Generation}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.esa.int/Our_Activities/Observing_the_Earth/Meteosat_Second_Generation/MSG_overview2
+      \endverb
+    \endentry
+    \entry{msgcpp}{online}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labeltitle}{MSGCPP product description}
+      \field{title}{MSGCPP product description}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://msgcpp.knmi.nl/mediawiki/index.php/MSGCPP_product_description
+      \endverb
+    \endentry
+    \entry{pielke98}{article}{}
+      \name{labelname}{6}{}{%
+        {{uniquename=0,hash=ddbcc01dbb15daae9d686e5a39c9f75c}{Pielke}{P\bibinitperiod}{Roger\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=708e3a06339a7280a6ce3baa0434db91}{Avissar}{A\bibinitperiod}{RonI}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8026ea9a66758cda4ea582eca69d269d}{Raupach}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=814682333f64a7d5c2fc8092540f3d76}{Dolman}{D\bibinitperiod}{A\bibnamedelima Johannes}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2ae6a44f0273f7795809a067250b90d}{Zeng}{Z\bibinitperiod}{Xubin}{X\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=197aad56fe8d8e996ef6ac1d2c824c2f}{Denning}{D\bibinitperiod}{A\bibnamedelima Scott}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{uniquename=0,hash=ddbcc01dbb15daae9d686e5a39c9f75c}{Pielke}{P\bibinitperiod}{Roger\bibnamedelima A}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=708e3a06339a7280a6ce3baa0434db91}{Avissar}{A\bibinitperiod}{RonI}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8026ea9a66758cda4ea582eca69d269d}{Raupach}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=814682333f64a7d5c2fc8092540f3d76}{Dolman}{D\bibinitperiod}{A\bibnamedelima Johannes}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2ae6a44f0273f7795809a067250b90d}{Zeng}{Z\bibinitperiod}{Xubin}{X\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=197aad56fe8d8e996ef6ac1d2c824c2f}{Denning}{D\bibinitperiod}{A\bibnamedelima Scott}{A\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5208e772c037642689f474003906dfdf}
+      \strng{fullhash}{4d429e665908a83c0f3d4804a274af72}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Interactions between the atmosphere and terrestrial ecosystems: influence on weather and climate}
+      \field{journaltitle}{Global Change Biology}
+      \field{number}{5}
+      \field{title}{Interactions between the atmosphere and terrestrial ecosystems: influence on weather and climate}
+      \field{volume}{4}
+      \field{year}{1998}
+      \field{pages}{461\bibrangedash 475}
+    \endentry
+    \entry{souza00}{article}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=20a9683ba73b91209b8e36f7c9716419}{Souza}{S\bibinitperiod}{Enio\bibnamedelima P}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e3676259ac7d10e1c7810a3515a56fcb}{Renno}{R\bibinitperiod}{Nilton\bibnamedelima O}{N\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=932a2b011f17e30296980646bdc098b8}{Silva\bibnamedelima Dias}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{Maria\bibnamedelima AF}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=20a9683ba73b91209b8e36f7c9716419}{Souza}{S\bibinitperiod}{Enio\bibnamedelima P}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e3676259ac7d10e1c7810a3515a56fcb}{Renno}{R\bibinitperiod}{Nilton\bibnamedelima O}{N\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=932a2b011f17e30296980646bdc098b8}{Silva\bibnamedelima Dias}{S\bibinitperiod\bibinitdelim D\bibinitperiod}{Maria\bibnamedelima AF}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c5e9b929c1f42fb33f858401efe00677}
+      \strng{fullhash}{c5e9b929c1f42fb33f858401efe00677}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Convective circulations induced by surface heterogeneities}
+      \field{journaltitle}{Journal of the atmospheric sciences}
+      \field{number}{17}
+      \field{title}{Convective circulations induced by surface heterogeneities}
+      \field{volume}{57}
+      \field{year}{2000}
+      \field{pages}{2915\bibrangedash 2922}
+    \endentry
+    \entry{teuling10}{article}{}
+      \name{labelname}{19}{}{%
+        {{uniquename=0,hash=bb6299dfe9f74abf22f8c7088fcda01e}{Teuling}{T\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0ed01c4e4155ef191d1be5babf06d002}{Seneviratne}{S\bibinitperiod}{S.\bibnamedelimi I.}{S\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f9266ade174b3683e629dadb17babf76}{Stockli}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6809bb96c750168df409f326badb1d30}{Reichstein}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=007288cbf27bb10dfd1b72db4b066671}{Moors}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=38cb41bc2f0347da8980eb3e7edf8332}{Ciais}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35e45daf2b4d8817661e7222ac1fc54f}{Luyssaert}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0062abe4b8bb8c760a2210879f77c966}{Hurk}{H\bibinitperiod}{B.}{B\bibinitperiod}{van\bibnamedelima den}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=25b4cc53b825119d9ea4f306ba82653d}{Ammann}{A\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8b2aa7b235ad57ffdddab07ed8ae9b54}{Bernhofer}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fa6f7e4b22f7f75327c1e381ce7d8405}{Dellwik}{D\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c93d92460cdfc5aef9530edd7afa2ba}{Gianelle}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9424e70b8c29d5a2399a48976017b1a5}{Gielen}{G\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=21a125748e9ad528250b6ea0f5e3170b}{Grunwald}{G\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9095b59bf0b0099595727bdcd718fd7d}{Klumpp}{K\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fcf7920098e7bf7d423141ebd8aa63eb}{Montagnani}{M\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e404e08745b754142cea96c69ae1f67}{Moureaux}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=518673e8fe0c2823c9cd9c369cc954be}{Sottocornola}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ed1ea76306d4376b928869f4e258ea16}{Wohlfahrt}{W\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{19}{}{%
+        {{uniquename=0,hash=bb6299dfe9f74abf22f8c7088fcda01e}{Teuling}{T\bibinitperiod}{A.\bibnamedelimi J.}{A\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0ed01c4e4155ef191d1be5babf06d002}{Seneviratne}{S\bibinitperiod}{S.\bibnamedelimi I.}{S\bibinitperiod\bibinitdelim I\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f9266ade174b3683e629dadb17babf76}{Stockli}{S\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6809bb96c750168df409f326badb1d30}{Reichstein}{R\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=007288cbf27bb10dfd1b72db4b066671}{Moors}{M\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=38cb41bc2f0347da8980eb3e7edf8332}{Ciais}{C\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=35e45daf2b4d8817661e7222ac1fc54f}{Luyssaert}{L\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0062abe4b8bb8c760a2210879f77c966}{Hurk}{H\bibinitperiod}{B.}{B\bibinitperiod}{van\bibnamedelima den}{v\bibinitperiod\bibinitdelim d\bibinitperiod}{}{}}%
+        {{uniquename=0,hash=25b4cc53b825119d9ea4f306ba82653d}{Ammann}{A\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8b2aa7b235ad57ffdddab07ed8ae9b54}{Bernhofer}{B\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fa6f7e4b22f7f75327c1e381ce7d8405}{Dellwik}{D\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8c93d92460cdfc5aef9530edd7afa2ba}{Gianelle}{G\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9424e70b8c29d5a2399a48976017b1a5}{Gielen}{G\bibinitperiod}{B.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=21a125748e9ad528250b6ea0f5e3170b}{Grunwald}{G\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9095b59bf0b0099595727bdcd718fd7d}{Klumpp}{K\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fcf7920098e7bf7d423141ebd8aa63eb}{Montagnani}{M\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e404e08745b754142cea96c69ae1f67}{Moureaux}{M\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=518673e8fe0c2823c9cd9c369cc954be}{Sottocornola}{S\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=ed1ea76306d4376b928869f4e258ea16}{Wohlfahrt}{W\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b4512c1054f01830e2c93737f546af49}
+      \strng{fullhash}{eb1a0cc69f06ad3061395f25db22eefe}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Contrasting response of European forest and grassland energy exchange to heatwaves}
+      \field{journaltitle}{Nature Geoscience}
+      \field{number}{10}
+      \field{title}{Contrasting response of European forest and grassland energy exchange to heatwaves}
+      \field{volume}{3}
+      \field{year}{2010}
+      \field{pages}{722\bibrangedash 727}
+    \endentry
+    \entry{tiedtke93}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=0ee9837b549c3f96a2ccec7231e561db}{Tiedtke}{T\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0ee9837b549c3f96a2ccec7231e561db}{Tiedtke}{T\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0ee9837b549c3f96a2ccec7231e561db}
+      \strng{fullhash}{0ee9837b549c3f96a2ccec7231e561db}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labelyear}{1993}
+      \field{datelabelsource}{}
+      \field{labeltitle}{REPRESENTATION OF CLOUDS IN LARGE--SCALE MODELS}
+      \field{journaltitle}{Monthly Weather Review}
+      \field{number}{11}
+      \field{title}{REPRESENTATION OF CLOUDS IN LARGE--SCALE MODELS}
+      \field{volume}{121}
+      \field{year}{1993}
+      \field{pages}{3040\bibrangedash 3061}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

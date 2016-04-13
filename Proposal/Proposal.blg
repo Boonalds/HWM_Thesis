@@ -1,0 +1,15 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[1] Config.pm:323> INFO - Logfile is 'Proposal.blg'
+[313] biber-MSWIN:274> INFO - === %a %b %e, %Y, %H:%M:%S
+[322] Biber.pm:333> INFO - Reading 'Proposal.bcf'
+[513] Biber.pm:635> INFO - Found 11 citekeys in bib section 0
+[671] Biber.pm:3051> INFO - Processing section 0
+[979] Biber.pm:3189> INFO - Looking for bibtex format file 'Refprop.bib' for section 0
+[1024] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[1088] bibtex.pm:864> INFO - Found BibTeX data source 'Refprop.bib'
+[2129] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2130] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2131] Biber.pm:2928> INFO - Sorting list 'nyvt' of type 'entry' with scheme 'nyvt' and locale 'en-US'
+[2131] Biber.pm:2932> INFO - No sort tailoring available for locale 'en-US'
+[2208] bbl.pm:517> INFO - Writing 'Proposal.bbl' with encoding 'UTF-8'
+[2224] bbl.pm:606> INFO - Output to Proposal.bbl
