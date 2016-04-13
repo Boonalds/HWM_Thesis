@@ -106,20 +106,6 @@
 	year = {2008}
 }
 
-@Article{KuusinenTomppoShuaiEtAl2014,
-  author =        {Nea Kuusinen and Erkki Tomppo and Yanmin Shuai and Frank Berninger},
-  title =         {Effects of forest age on albedo in boreal forests estimated from \{MODIS\} and Landsat albedo retrievals },
-  journal =       {Remote Sensing of Environment },
-  year =          {2014},
-  volume =        {145},
-  pages =         {145 - 153},
-  __markedentry = {[maas044:6]},
-  doi =           {http://dx.doi.org/10.1016/j.rse.2014.02.005},
-  issn =          {0034-4257},
-  keywords =      {Albedo},
-  url =           {http://www.sciencedirect.com/science/article/pii/S0034425714000509}
-}
-
 @online{msg,
 	ALTauthor = {European Space Agency},
 	ALTeditor = {ESA},

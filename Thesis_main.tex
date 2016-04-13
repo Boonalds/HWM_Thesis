@@ -151,10 +151,10 @@ The royal Dutch meteorological institute (KNMI) has developed an algorithm that 
 
 The algorithm works in three steps, first it separates the cloud filled and cloud free pixels. Then the reflectances in the visible (0.6 $\mu m$) and near-infrared (1.6 $\mu m$) parts of the spectrum of the cloud filled pixels are compared with values in a database. The database (a look-up-table, LUT) contains the values of the primary cloud properties for every combination of reflectances. These values have been calculated using a radiative transfer model. Another set of secondary properties are then derived from the primary cloud properties.
 
-\subsection{Approach}
+
 In this section the approach to investigating each of the four research questions is presented. As this proposal is written at the start of the research, not many details are known yet about how everything is going to be done. However, we do present the ideas we have so far, and for the final report this section will be replaced by the actual methods, including the necessary details.
 
-\subsubsection{Comparing the albedo map}
+\subsection{RQ1 - Comparing the albedo map}
 To investigate how well the albedo map that was created performs, it will be compared with high resolution albedo maps from other sources, such as the MODIS albedo product. Doing so will tell us if the relative difference between the forest and grassland areas is realistic and reliable.
 
 
@@ -163,10 +163,10 @@ For identifying which synoptic weather variables are playing a role for the deve
 
 The large Orleans and Landes forests will be compared with neighbouring grassland areas. Analysis will be done using scripts that will first determine for each image which pixels are filled with clouds, and which are not. The script will then compare for each image the forest with the non-forest areas to identify when there is significantly more clouds above the forests. When this is determined, the timestamps are statistically cross-referenced with a few synoptic variables that are likely to cause the additional convection, such as wind direction, wind speed, temperature and perhaps air moisture, as well as any combination of variables, using non-linear regression. These variables will be based on literature research. From the results we expect to see which variables are the most dominant factor for the additional cloud formation.
 
-\subsubsection{Investigating importance of forest size}
+\subsection{RQ3 - Investigating importance of forest size}
 After identifying which synoptic weather variables are important for additional cloud formation over the large forests, I select timeframes in which these are present. This means that we have a subset with additional clouds forming over at least the large forest, and the days with frontal weather situations are filtered out. Smaller regions are then selected and the cloud detection script will be used again to see if there are still significantly more clouds above the smaller forests than above the control regions. And if this is the case, if the difference is as large as with the larger forest or that there perhaps is another relation.
 
-\subsubsection{Implications of additionally formed clouds}
+\subsection{RQ4 - Implications of additionally formed clouds}
 When I know how often the weather is favouring additional cloud formation, from the timestamps found in the first research question. And when it is known for which forest sizes these mechanics play a role, we can assess for how much percentage of time this effect occurs for which percentage of the land surface. From that I can conclude how relevant these mechanics are for larger and smaller scales. For a local and regional scale the effects are likely to be larger than for the entire country, because relatively there are more forests in our study regions on a national scale. So this assessment will be made for a few spatial scales; local, regional and national. On a continental scale an assessment can perhaps be made by comparing the Landes and Sologne forests with larger forests to see if they are of the same type and in the same climatic zone, to see if these additional clouds are to be expected in larger areas as well.\\
 
 Furthermore, the results can also temporally be extrapolated by looking at the relevant weather variables, and the development of these variables according to climate change scenarios. For example, if the cloud convection is positively correlated with temperature, there will likely be more additional cloud formation above forests in the future due to global warming. Based on literature and the outcomes of the other research questions something can be said about the impact of these mechanics, and whether they should therefore be implemented into weather and climate models.\\
@@ -178,21 +178,28 @@ As this study is purely an analytical study without field work, the only real pi
 
 A lot of raw data is needed to do the analysis of this research, first of all there are the satellite images taken by the MSG. Furthermore there will be weather data of France that needs to be acquired and processed. The processing, analysis and eventual plotting of the results will be done using Matlab. Writing the report is done using the LateX language in TeXstudio. \\
 
-\subsection{Feasibility}
-In the study there are two critical technical steps that could delay the study. First of all, I am not very experienced in Matlab. Although I have used it before, it will require some time to get familiar enough to do the technical analysis. I do, however, have quite some experience in other programming and scripting languages such as R and Python, therefore I think I will manage to master Matlab relatively quick. The second critical step is acquiring the French weather data. Although I am confident that this is available, for example from ERA-Interim database, finding it and loading it into Matlab might take a bit of time. \\
 
-\subsection{Planning}
-There has been quite a lot delay in the project already unfortunately, caused by some health issues. However, these issues have been resolved and I am confident that I can work at maximum capacity for the remainder of the project.\\
 
-Figure \ref{fig:planning} shows the duration and planning of the tasks within the project. I will try to catch up some lost time by working efficiently and also in the weekends if my other activities allow, so I expect to be finished a bit earlier if everything goes smoothly. But for now the planning is to have handed in the first draft somewhere in June.
 
-% Figure Planning
-\begin{figure}[H]
-	\centering
-	\includegraphics[height=7.5in]{figures/Planning.png}
-	\caption[Optional caption]{Gantt chart of this study, indicating what I plan to be working on for each week. The planning also contains 'Intermezzo', which is the period where I could hardly work on my research due to health issues.}
-	\label{fig:planning}
-\end{figure}
+%% Results
+\newpage
+\section{Material and Methods}  % Results
+
+\subsection{Performance albedo map} % RQ 1
+
+\subsection{Performance albedo map} % RQ 2
+
+\subsection{Performance albedo map} % RQ 3
+
+\subsection{Performance albedo map} % RQ 4
+
+
+
+
+
+
+
+
 
 
 \newpage
